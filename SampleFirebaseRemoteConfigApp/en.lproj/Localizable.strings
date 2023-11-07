@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  SampleFirebaseRemoteConfigApp
+
+  Created by Mehmet Emin Deniz on 11.10.2023.
+  
+*/
+
+"language" = "Language is English";
